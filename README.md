@@ -37,6 +37,3 @@ The report is divided into several analytical modules accessible via the navigat
 * **Visual Type:** Horizontal Bar Chart, Matrix Summary, and Gauge Indicator.
 * **Key Insight:** Compares brand popularity based on user interaction frequency and review submissions.
 * **Highlight:** Features a high platform-wide customer satisfaction score with an **Average Rating of 4.05 / 5.00**. Brands like *Wilson*, *Apple*, and *Nike* hold the highest volume of consumer ratings.
-
-
-growth = DIVIDE(purchases[thisyr], purchases[lastyr]) * 100
